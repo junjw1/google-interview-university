@@ -2,7 +2,7 @@
 
 ## My To Do List
 
-- [*] readme 내용 정리하기
+- [x] readme 내용 정리하기
 - [ ] 구체적인 목표 세우기(무엇을 얼마나 언제까지 하겠다)
 
 ## Don't feel you aren't smart enough
