@@ -2,7 +2,7 @@
 
 ## My To Do List
 
-- [ ] readme 내용 정리하기
+- [*] readme 내용 정리하기
 - [ ] 구체적인 목표 세우기(무엇을 얼마나 언제까지 하겠다)
 
 ## Don't feel you aren't smart enough
@@ -68,7 +68,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Pick One Language for the Interview
 
-[ ] I wrote this short article about it: [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
+- [ ] I wrote this short article about it: [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
@@ -88,7 +88,8 @@ Read more about choices:
 - [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
 - [ ] https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
 
-[ ] [See language resources here](programming-language-resources.md)
+
+- [ ] [See language resources here](programming-language-resources.md)
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
